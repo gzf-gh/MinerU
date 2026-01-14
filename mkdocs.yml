@@ -87,6 +87,7 @@ nav:
       - Advanced CLI Parameters: usage/advanced_cli_parameters.md
     - Reference:
       - Reference: reference/index.md
+      - Technical Design: reference/technical_design.md
       - Output File Format: reference/output_files.md
       - Changelog: reference/changelog.md
     - FAQ:
@@ -105,6 +106,7 @@ nav:
     - Advanced CLI Parameters: usage/advanced_cli_parameters.md
   - Reference:
     - Reference: reference/index.md
+    - Technical Design: reference/technical_design.md
     - Output File Format: reference/output_files.md
     - Changelog: reference/changelog.md
   - FAQ:
@@ -140,6 +142,7 @@ plugins:
             Advanced CLI Parameters: 命令行进阶参数
             FAQ: 常见问题解答
             Reference: 参考资料
+            Technical Design: 技术实现方案
             Output File Format: 输出文件格式
             Changelog: 更新日志
             Demo: 在线演示
